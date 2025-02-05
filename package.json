@@ -1,0 +1,18 @@
+{
+  "author": "",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "python",
+  "scripts": {
+    "clear": "bash shell/clear.sh",
+    "_install": "bash shell/install.sh",
+    "start": "nodemon"
+  },
+  "type": "commonjs",
+  "version": "1.0.0"
+}
